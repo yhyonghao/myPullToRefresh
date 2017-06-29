@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\yh\\andriod\\Android27\\Yh29PullToResh\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]
